@@ -45,9 +45,5 @@ public class NumberGame {
         System.out.println("Round won:  " + roundWon);
         System.out.println("Total attempts  "+ totalAttempts);
 
-
-
-
-
     }
 }
